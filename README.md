@@ -13,7 +13,6 @@ Halo, I'm Rafell. <br>Beginner Programmer<br>Beginner CTF Player
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Filanoer&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Filanoer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Filanoer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![gif](https://tenor.com/id/view/anime-cute-sus-stare-fox-girl-gif-2773443117564484523.gif)
 
 #### ✍️ Random Dev Quote
