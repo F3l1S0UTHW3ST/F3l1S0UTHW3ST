@@ -2,7 +2,7 @@
 
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c74abeee-e84c-4f1c-9dbd-439af697a7ee" />
 
-![gif](https://tenor.com/ds2yTxOh2nf.gif)
+![gif](https://tenor.com/id/view/anime-cute-sus-stare-fox-girl-gif-2773443117564484523.gif)
 
 ## About Me:
 Halo, I'm Rafell. <br>Beginner Programmer<br>Beginner CTF Player
