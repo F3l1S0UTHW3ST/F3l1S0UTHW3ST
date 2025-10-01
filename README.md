@@ -3,7 +3,7 @@
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c74abeee-e84c-4f1c-9dbd-439af697a7ee" />
 
 ## About Me:
-Hai, Saya Rafell. <br>Saya Seorang Pemula<br>Beginner
+Halo, I'm Rafell. <br>Beginner Programmer<br>Beginner CTF Player
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rafellgeh!) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@r_apelll) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafellgeraldo@gmail.com) 
