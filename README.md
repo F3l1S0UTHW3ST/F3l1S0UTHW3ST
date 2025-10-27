@@ -13,19 +13,6 @@ HI!!, I'm Rafell. <br>Beginner Programmer<br>Beginner CTF Player
 ## 🍬 Candy:
 ![gif](https://tenor.com/id/view/anime-cute-sus-stare-fox-girl-gif-2773443117564484523.gif)
 
-## active
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WearTime&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" alt="Bocchi's GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WearTime&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="Bocchi's Streak Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WearTime&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Most Used Languages">
-</div>
-
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
