@@ -3,7 +3,7 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/7cd320c2-9ae3-4570-b8e7-d998f92cbb77" />
 
 ## About Me:
-HI!!, I'm Rafell. <br>Beginner Programmer<br>Beginner CTF Player<br>Active Minecraft Player | Username : Mayouw
+HI!!, I'm Rafell. <br>Beginner Programmer<br>Beginner CTF Player
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rafellgeh!) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@r_apelll) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafellgeraldo@gmail.com) 
