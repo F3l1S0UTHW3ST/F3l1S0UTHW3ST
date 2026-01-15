@@ -1,6 +1,7 @@
 # WELCOME!!!
 
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/7cd320c2-9ae3-4570-b8e7-d998f92cbb77" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=900&pause=1000&color=FF46FE&width=435&lines=Hallo)](https://git.io/typing-svg)
 
 ## About Me:
 HI!!, I'm Rafell. <br>Beginner Programmer<br>Beginner CTF Player
