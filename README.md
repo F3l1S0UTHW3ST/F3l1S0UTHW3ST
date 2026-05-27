@@ -4,9 +4,9 @@
 
 ## About Me
 ```yaml
-name: Rafell Geraldo
-location: Indonesia
-currently_learning:
+Name: Rafell Geraldo
+Location: Indonesia
+Currently_learning:
   - AI
   - CTF
   - Low-Level Programming
